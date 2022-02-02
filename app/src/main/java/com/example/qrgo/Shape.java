@@ -1,8 +1,10 @@
 package com.example.qrgo;
 
 public abstract class Shape {
-    private int x;
-    private int y;
+    protected int x;
+    protected int y;
+
+    private String color = "blue";
 }
 
 
