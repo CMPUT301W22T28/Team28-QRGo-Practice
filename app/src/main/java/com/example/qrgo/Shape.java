@@ -4,6 +4,6 @@ public class Shape {
     protected int x;
     protected int y;
 
-    protected String color = "turquoise";
+    protected String color = "red";
 
 }
