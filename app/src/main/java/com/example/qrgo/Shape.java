@@ -1,10 +1,9 @@
 package com.example.qrgo;
 
-public abstract class Shape {
+public class Shape {
     protected int x;
     protected int y;
 
-    protected String color = "blue";
+    protected String color = "turquoise";
+
 }
-
-
