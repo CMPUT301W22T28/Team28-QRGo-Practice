@@ -5,6 +5,5 @@ public class Shape {
     protected int y;
 
     protected String color = "turquoise";
-    protected String colorMarc = "Black";
 
 }
